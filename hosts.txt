@@ -1,2 +1,2 @@
 # Local development host information
-post,localhost,/sysinfo,/healthcheck
+post,http://localhost:8080,/sysinfo,/healthcheck
