@@ -1,0 +1,2 @@
+# Local development host information
+post,localhost,/sysinfo,/healthcheck
